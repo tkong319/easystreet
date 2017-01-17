@@ -15,6 +15,7 @@ import java.util.Map;
  */
 public abstract class AbstractVehicle implements Vehicle {
     
+    //this is a test
     /** The X coordinate that a vehicle starts at. */
     private final int myOriginalX;
     
